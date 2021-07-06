@@ -13,6 +13,7 @@
 
 This is the repository for Friday Night Funkin' Drop Engine, a game originally made for Ludum Dare 47 "Stuck In a Loop". And a completely reworked engine, reworked again.
 Drop Engine is a fork of [Kade Engine](https://github.com/KadeDev/Kade-Engine), reworked. **THIS USES A OLD VERSION OF KADE ENGINE**
+I'm too lazy to put the executable here, compile it yourself (go to 'building instructions') or go to releases to download the web version (double-click the index.html file and it will open in your web browser
 
 Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
 Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
