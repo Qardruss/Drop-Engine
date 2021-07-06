@@ -1,5 +1,4 @@
 
-**Download the latest release [here](https://github.com/KadeDev/Kade-Engine/releases/latest)**
 
 ![image](https://user-images.githubusercontent.com/26305836/110532077-3c1d3780-80d1-11eb-8348-0e63d5c0f4f1.png)
 
@@ -10,9 +9,9 @@
 ![image](https://user-images.githubusercontent.com/26305836/110532204-63740480-80d1-11eb-9641-bf5a641e6d77.png)
 
 
-# Friday Night Funkin Kade Engine
+# Friday Night Funkin' Drop Engine
 
-This is the repository for Friday Night Funkin' Kade Engine, a game originally made for Ludum Dare 47 "Stuck In a Loop". And a completely reworked engine, reworked again.
+This is the repository for Friday Night Funkin' Drop Engine, a game originally made for Ludum Dare 47 "Stuck In a Loop". And a completely reworked engine, reworked again.
 
 Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
 Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
@@ -20,13 +19,13 @@ Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 
 Mod Page: https://gamebanana.com/gamefiles/16761
 	
-## What is Kade Engine?
+## What is Drop Engine?
 
-Kade Engine is an engine rework of the OG games engine. Simply put, we give you some great new features while also giving you the latest GitHub features.
+Drop Engine is an engine rework of the OG games engine. Simply put, we give you some great new features while also giving you the latest GitHub features.
 
 ## Features
 
-The features that Kade Engine implements are:
+The features that Drop Engine implements are:
 - New Input System
 
 *Hate the old engine because your inputs are delayed? Are inputs being dropped? Well with this input system, inputs rarely get dropped! If you wanna see an example of what it feels like, play any 4k rhythm game like Quaver or Etterna!*
